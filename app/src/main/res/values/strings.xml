@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="enter_valid_first_name">Enter valid first name</string>
+    <string name="enter_valid_last_name">Enter valid last name</string>
+    <string name="enter_valid_number">Enter valid number</string>
+    <string name="number_verification">Number verification</string>
+    <string name="intent_is_null">Intent is null</string>
+    <string name="default_number">+923318415906</string>
+    <string name="msg_number_verification">You have to verify number given above to get registered. Click send code
+        button to get the number verification code
+    </string>
+    <string name="enter_valid_password">Enter valid password minimum length 4</string>
+    <string name="send_code">Send Code</string>
+    <string name="verify">Verify</string>
+    <string name="resend">Resend Code</string>
+    <string name="invalid_code">Invalid code</string>
+    <string name="number_verification_successful">Number verification successful</string>
+    <string name="enter_code_below">ENTER OTP</string>
+    <string name="code_sent">Code has been sent on your number</string>
+    <string name="welcome_note">testapp\nstudent</string>
+    <string name="select_gender">gender.</string>
+    <string name="boy">Boy</string>
+    <string name="girl">Girl</string>
+    <string name="enter_your_credentials_below">Enter your credentials below</string>
+    <string name="get_registered_below">Get registered below</string>
+    <string name="class_selection">Select Class</string>
+    <string name="class_name">Class Name.</string>
+    <string name="select_class_first">Select class first</string>
+    <string name="hey">Hey,</string>
+    <string name="name">Name</string>
+    <string name="lets_customise_your_learning_place">Let\'s customise your learning plan.</string>
+    <string name="which_class">Which class are you in?</string>
+    <string name="what_are_your_favourite_subjects">What are your favourite subjects?</string>
+    <string name="what_are_your_least_favourite_subjects">What are your least favourite subjects?</string>
+    <string name="subjects_selection">Subjects selection</string>
+    <string name="select_subject">Select subject</string>
+    <string name="select_hobby">Select hobby</string>
+    <string name="all_work_and_no_play">\"All work and no play makes jack a dull boy\"</string>
+    <string name="select_some_exciting_hobbies">Select some exciting hobbies you want to pursue or already pursuing.
+    </string>
+    <string name="lets_learn_Something_new">Lets learn something new</string>
+    <string name="search_skill_master">Search skill masters</string>
+    <string name="request_for_custom_learning">Request for custom learning</string>
+    <string name="select_your_category_of_learning">Select your category of learning</string>
+    <string name="academics">academics.</string>
+    <string name="hobby">hobby.</string>
+    <string name="learning_category">Learning category</string>
+    <string name="what_are_your">What are your</string>
+    <string name="favourite_subjects">favourite subjects?</string>
+    <string name="you_have_been_registered_successfully">You have been registered successfully</string>
+    <string name="number_already_registered">Number already registered</string>
+    <string name="select_atleast_one_hobby_first">Select atleast one hobby first</string>
+    <string name="select_atleast_one_subject">Select atleast one subject</string>
+    <string name="number_is_not_registered">Number is not registered</string>
+    <string name="login_successful">Login successful</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="enter_valid_code">Enter valid code</string>
+</resources>
